@@ -6,7 +6,9 @@ loop do
   break if number > 0 && number < 10
 end
 
-
+# solution - if number.between?(0, 10)
+# break
+# end
 
 
 

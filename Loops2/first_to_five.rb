@@ -11,3 +11,7 @@ loop do
   puts "5 was reached!"
   break
 end
+
+# Further exploration
+# Using next seems simplest to me. An if/else construct could be used,
+# However it would require more lines of code.

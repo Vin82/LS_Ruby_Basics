@@ -3,7 +3,7 @@
 friends = ['Sarah', 'John', 'Hannah', 'Dave']
 
 for i in friends
-  puts "Hello, " + i + "!"
+  puts "Hello, " + i + "!" # solution puts "Hello, #{friend}!" String Interpolation.
 end
 
 

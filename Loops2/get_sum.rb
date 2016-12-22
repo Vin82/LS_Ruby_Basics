@@ -10,3 +10,5 @@ loop do
     puts "Wrong answer. Try again!"
   end
 end
+
+# solution - uses no else statement.

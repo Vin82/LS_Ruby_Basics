@@ -9,3 +9,7 @@ loop do
   end
 end
 p numbers
+
+# solution - slightly different. uses break if numbers.size == 5
+# also numbers.push(input) vs. numbers = numbers.push(input)
+#

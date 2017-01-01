@@ -1,1 +1,4 @@
-# Solutions To LS Ruby Basics Problems #
+# Ruby Basics #
+
+Solutions to LS Ruby Basics Problems.
+
